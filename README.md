@@ -73,7 +73,7 @@ The Autonomous Parallel Parking System is an Arduino-based project that automati
 ## Conclusion
 This project demonstrates an efficient and affordable autonomous parking solution using Arduino. It enhances safety, convenience, and parking accuracy while providing a strong foundation for future intelligent transportation systems.
 
-## Author
+## Author 
 *Saravanan P*  
 B.E. Electrical and Electronics Engineering  
 Adhiparasakthi College of Engineering
